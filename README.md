@@ -1,103 +1,59 @@
-<!-- ========================= NGUYEN HAI DANG - DARK LUXURY README ========================= -->
+<!-- ========================= NGUYEN HAI DANG - README ========================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,50:1F2937,100:6B7280&height=240&section=header&text=NGUYEN%20HAI%20DANG&fontSize=40&fontColor=F9FAFB&animation=fadeIn&fontAlignY=40&desc=Business%20Analyst%20%7C%20System%20Analyst%20%7C%20Information%20Systems&descAlignY=60&descSize=16" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,50:1F2937,100:6B7280&height=230&section=header&text=NGUYEN%20HAI%20DANG&fontSize=40&fontColor=F9FAFB&animation=fadeIn&fontAlignY=40&desc=Business%20Analyst%20%7C%20Developer%20%7C%20Information%20Systems%20Student&descAlignY=60&descSize=16" alt="header"/>
 </p>
 
-<h1 align="center">Nguyen Hai Dang</h1>
+<h1 align="center">Hi, I'm Nguyen Hai Dang</h1>
 
 <p align="center">
-  <strong>Business Analysis • System Thinking • Practical Solutions</strong>
+  <strong>Information Systems Student • BA-oriented • Developer mindset</strong>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=D1D5DB&center=true&vCenter=true&width=900&lines=Turning+business+needs+into+clear+system+solutions;Focused+on+analysis%2C+structure%2C+and+real-world+impact;Information+Systems+student+with+BA%2FSA+orientation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=D1D5DB&center=true&vCenter=true&width=900&lines=Focused+on+Business+Analysis+and+Software+Development;Learning+to+build+clear+and+practical+digital+solutions;Turning+ideas+into+well-structured+products" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/University-IUH-111827?style=for-the-badge&logo=academia&logoColor=white" alt="IUH"/>
   <img src="https://img.shields.io/badge/Major-Information%20Systems-1F2937?style=for-the-badge&logo=databricks&logoColor=white" alt="Major"/>
-  <img src="https://img.shields.io/badge/Orientation-Business%20Analyst-374151?style=for-the-badge&logo=googledocs&logoColor=white" alt="BA"/>
-  <img src="https://img.shields.io/badge/Orientation-System%20Analyst-4B5563?style=for-the-badge&logo=azuredevops&logoColor=white" alt="SA"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HaiDang102&label=Profile%20Views&color=4B5563&style=for-the-badge" alt="profile views"/>
+  <img src="https://img.shields.io/badge/Focus-Business%20Analysis-374151?style=for-the-badge&logo=googledocs&logoColor=white" alt="BA"/>
+  <img src="https://img.shields.io/badge/Focus-Development-4B5563?style=for-the-badge&logo=github&logoColor=white" alt="Dev"/>
 </p>
 
 ---
 
 ## About Me
 
-I am a final-year **Information Systems** student at **Industrial University of Ho Chi Minh City (IUH)**, pursuing a career path in **Business Analysis** and **System Analysis**.
+I am an **Information Systems student** at **Industrial University of Ho Chi Minh City (IUH)**.  
+I am currently focusing on two paths: **Business Analysis** and **Software Development**.
 
-I am especially interested in the process of translating business needs into structured system solutions — where requirements are not only documented clearly, but also aligned with feasibility, usability, and practical business value.
-
-My current focus is to build a strong foundation in:
-
-- business requirement analysis  
-- system thinking and process modeling  
-- database design and SQL  
-- documentation for software projects  
-- wireframing and product-oriented problem solving  
+I enjoy understanding business requirements, organizing ideas clearly, and turning them into practical digital solutions.  
+My goal is to become a professional who can both **analyze the problem well** and **build the solution effectively**.
 
 ---
 
-## Professional Profile
+## My Focus
 
-- **Full Name:** Nguyen Hai Dang  
-- **University:** Industrial University of Ho Chi Minh City (IUH)  
-- **Faculty:** Information Technology  
-- **Major:** Information Systems  
-- **Career Track:** Business Analyst / System Analyst  
+- **Business Analysis**  
+  Learn how to gather requirements, write clear documentation, and understand user needs.
 
----
+- **Development**  
+  Improve programming skills, build real projects, and strengthen problem-solving through implementation.
 
-## Career Direction
-
-I am developing myself toward roles that require both analytical thinking and structured communication.
-
-### Business Analyst
-- Understand business problems and operational needs
-- Gather, clarify, and document requirements
-- Support communication between stakeholders and development teams
-- Ensure requirements are meaningful, traceable, and actionable
-
-### System Analyst
-- Model workflows, use cases, and system behaviors
-- Translate business expectations into logical system structures
-- Support solution design with clarity and consistency
-- Contribute to systems that are maintainable and implementation-ready
-
-### Product Mindset
-- Think beyond features and focus on value
-- Approach problems from both user and business perspectives
-- Prioritize practicality, clarity, and measurable outcomes
+- **Product Thinking**  
+  Focus not only on features, but also on usability, clarity, and practical value.
 
 ---
 
-## What I Am Building
+## What I’m Learning
 
-I am continuously improving in the following areas:
-
-- Requirement Elicitation and Analysis  
-- BRD / SRS Documentation  
-- Use Case / User Story Writing  
-- BPMN / UML / Flowchart Modeling  
-- Database Design and Normalization  
-- SQL Querying and Data Handling  
-- Wireframe / Prototype Design with Figma  
-- Collaboration in software development environments  
-
----
-
-## Strengths
-
-- Structured and disciplined thinking  
-- High responsibility in work and learning  
-- Clear written communication  
-- Fast adaptation to new contexts  
-- Continuous improvement mindset  
+- Requirement analysis  
+- SQL and database design  
+- System thinking and process modeling  
+- Web development  
+- Wireframe / prototype with Figma  
+- Writing software documents  
 
 ---
 
@@ -105,14 +61,6 @@ I am continuously improving in the following areas:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mysql,mongodb,git,github,vscode,figma&theme=dark" alt="tech stack"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Business%20Analysis-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/System%20Analysis-1F2937?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SQL-374151?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/BPMN%20%2F%20UML-4B5563?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Figma%20%2F%20Wireframe-6B7280?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
 ---
@@ -130,18 +78,15 @@ I am continuously improving in the following areas:
 
 ---
 
-## Current Learning Focus
+## Career Direction
 
-- Business requirement clarification  
-- System specification writing  
-- Database structure design  
-- SQL for analysis and reporting  
-- Product thinking in software projects  
-- Team collaboration and development workflow  
+I am building myself to become a **Business Analyst who understands technology** and a **Developer who understands business needs**.
+
+That combination helps me work better between ideas, users, and systems.
 
 ---
 
-## Connect With Me
+## Contact
 
 <p align="center">
   <a href="mailto:haidang23102003@gmail.com">
@@ -158,13 +103,9 @@ I am continuously improving in the following areas:
 ---
 
 <p align="center">
-  <em>"I aim to turn business requirements into clear, effective, and valuable system solutions."</em>
+  <em>"Learning to analyze clearly, build effectively, and create practical value."</em>
 </p>
 
 <p align="center">
-  Thanks for visiting my profile.
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,50:1F2937,100:6B7280&height=120&section=footer" alt="footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,50:1F2937,100:6B7280&height=110&section=footer" alt="footer"/>
 </p>
