@@ -3,6 +3,8 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8FAFC,50:E2E8F0,100:CBD5E1&height=240&section=header&text=NGUYEN%20HAI%20DANG&fontSize=40&fontColor=0F172A&animation=fadeIn&fontAlignY=38&desc=Business%20Analyst%20Oriented%20%7C%20Information%20Systems%20Student&descAlignY=58&descSize=16" alt="header"/>
 </p>
+<img width="2000" height="400" alt="image" src="https://github.com/user-attachments/assets/a772fb0e-1b1f-4583-ae10-f4cfad23516c" />
+
 
 <h1 align="center">Hi, I'm Nguyen Hai Dang</h1>
 
